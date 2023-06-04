@@ -8,13 +8,12 @@
 
 <!--START_SECTION:waka-->
 
-```text
-From: 20 May 2023 - To: 27 May 2023
+```txt
+From: 27 May 2023 - To: 03 June 2023
 
-Total Time: 28 hrs 22 mins
+Total Time: 0 secs
 
-JavaScript   28 hrs 21 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.94 %
-XML          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
