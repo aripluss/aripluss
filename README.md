@@ -9,11 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2023 - To: 09 July 2023
+From: 09 July 2023 - To: 16 July 2023
 
-Total Time: 0 secs
+Total Time: 4 hrs 19 mins
 
-No activity tracked
+JavaScript   4 hrs 6 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀   95.10 %
+Bash         7 mins          ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.04 %
+JSON         4 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.86 %
 ```
 
 <!--END_SECTION:waka-->
