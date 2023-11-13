@@ -11,12 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2023 - To: 04 November 2023
+From: 05 November 2023 - To: 12 November 2023
 
 Total Time: 0 secs
 
-HTML         0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀   65.47 %
-TypeScript   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
