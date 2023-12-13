@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">𝙸 𝚕𝚘𝚟𝚎 𝚖𝚢 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 𝚊𝚜 𝚊𝚗 𝙸𝚃 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝙸 𝚊𝚖 𝚌𝚘𝚗𝚜𝚝𝚊𝚗𝚝𝚕𝚢 𝚜𝚝𝚛𝚒𝚟𝚒𝚗𝚐 𝚝𝚘 𝚐𝚛𝚘𝚠 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚊𝚛𝚎𝚊!</p>
-<p align="center">𝙷𝚎𝚛𝚎 𝚒𝚜 𝚖𝚢 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 <a href="https://t.me/aripluss" target="_blank">𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖</a> 𝚝𝚘 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎.</p>
+<p align="center">𝙷𝚎𝚛𝚎 𝚒𝚜 𝚖𝚢 <a href="https://t.me/aripluss" target="_blank">𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖</a> <a href="#"><img src='https://github.com/aripluss/aripluss/assets/116344378/262b42f0-a69c-4ca4-821b-cef5a0395ed5' alt='telegram icon' width='18' style="pointer-events: none;"></a> 𝚝𝚘 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎.</p>
 
 <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="200"/></h1>
 
